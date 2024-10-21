@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AddNameSaveData_MainViewModelV2</string>
+    <string name="no_names_to_display">No names to display</string>
+    <string name="no_name_entered">No Name Entered</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="add_name">Add Name</string>
+</resources>
